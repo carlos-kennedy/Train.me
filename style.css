@@ -113,9 +113,7 @@ section button {
 }
 
 footer {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  text-align: center;
   margin: 2.64rem;
 }
 footer a {
